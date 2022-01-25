@@ -57,7 +57,7 @@ A **self-managing italian restaurant** made with **MERN**
 
 <a href="https://don-zipriano.herokuapp.com/"><img src="https://i.imgur.com/8AEMdLl.png" ></a>
 
-### <a href="https://slippersweb.herokuapp.com/">**ITinDev** </a>
+### <a href="https://slippersweb.herokuapp.com/">**Slippers** </a>
 A **self-managing Ecommerce** FullStack for shoes.
 
 <a href="https://slippersweb.herokuapp.com/"><img src="https://i.imgur.com/wL6kYrt.png" ></a>
