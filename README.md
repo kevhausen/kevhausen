@@ -50,12 +50,12 @@ I'm Kevin from Chile, and I'm a FullStack MERN Web Developer. I like to learn in
 ### <a href="https://mytinerary-vonhausen.herokuapp.com">**MyTinerary** </a>
 A **travel itinerary** web app
 
-<a href="https://mytinerary-vonhausen.herokuapp.com"><img src="https://imgur.com/JBlLT74" ></a>
+<a href="https://mytinerary-vonhausen.herokuapp.com"><img src="https://i.imgur.com/JBlLT74.png" ></a>
 
 ### <a href="https://don-zipriano.herokuapp.com/">**Don Zipriano** </a>
 A **self-managing italian restaurant** made with **MERN**
 
-<a href="https://don-zipriano.herokuapp.com/"><img src="https://imgur.com/8AEMdLl" ></a>
+<a href="https://don-zipriano.herokuapp.com/"><img src="https://i.imgur.com/8AEMdLl.png" ></a>
 
 ### <a href="https://slippersweb.herokuapp.com/">**ITinDev** </a>
 A **self-managing Ecommerce** FullStack for shoes.
