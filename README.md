@@ -54,16 +54,16 @@ I'm Kevin from Chile, and I'm a FullStack MERN Web Developer. I like to learn in
 
 ## Examples of Work
 ### <a href="https://mytinerary-vonhausen.herokuapp.com">**MyTinerary** </a>
-A **travel itinerary** web app
+A **travel itinerary** web app. You can sign up to hit like and comment on activities for each city.
 
 <a href="https://mytinerary-vonhausen.herokuapp.com"><img src="https://i.imgur.com/JBlLT74.png" ></a>
 
 ### <a href="https://don-zipriano.herokuapp.com/">**Don Zipriano** </a>
-A **self-managing italian restaurant** made with **MERN**
+A **self-managing italian restaurant** made with **MERN**. Has an admin panel where you can check, edit, upload and edit the menu, registered users, and reservations made.
 
 <a href="https://don-zipriano.herokuapp.com/"><img src="https://i.imgur.com/8AEMdLl.png" ></a>
 
 ### <a href="https://slippersweb.herokuapp.com/">**Slippers** </a>
-A **self-managing Ecommerce** FullStack for shoes.
+A **self-managing Ecommerce** FullStack for shoes. It has an admin panel only for the owner, to upload, edit and delete products.
 
 <a href="https://slippersweb.herokuapp.com/"><img src="https://i.imgur.com/wL6kYrt.png" ></a>
